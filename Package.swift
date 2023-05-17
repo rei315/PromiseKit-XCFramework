@@ -16,11 +16,7 @@ let package = Package(
     targets: [
         .target(
             name: "XC-PromiseKit",
-            dependencies: ["PromiseKit"],
-            exclude: [
-                "make-xcframework.sh",
-                "release-package.sh"
-            ]
+            dependencies: ["PromiseKit"]
         ),
         .binaryTarget(
             name: "PromiseKit",
