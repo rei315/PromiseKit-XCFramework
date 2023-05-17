@@ -1,3 +1,3 @@
 # XC-PromiseKit
 
-A description of this package.
+https://github.com/mxcl/PromiseKit のXCFrameworkバージョン
